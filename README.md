@@ -2,7 +2,7 @@
 
 Python Assignment 1: Data Structures - Strings & Tuples
 
-#Strings (Concatenation, Slicing and Other methods) :
+Strings (Concatenation, Slicing and Other methods) :
 
 1. String Concatenation:
 Write a Python program that takes two strings i.e string 1 “Hello ”, string 2 get name as
@@ -12,6 +12,7 @@ Display the concatenated string as
 the output.
 
 Sample Output:
+
 Enter your Name: Zara
 
 Hello Zara
@@ -20,6 +21,7 @@ Now concatenate string 3 “, welcome to Python programming” to the existing s
 display the output string.
 
 Sample Output:
+
 Hello Zara, welcome to Python programming
 
 2. String Slicing and Indexing:
@@ -54,7 +56,7 @@ d. Count the total number of occurrences of character ‘t’ in the string.
 e. Replace all occurrences of “Python” with “Machine Learning” in the input string
 strM = “Python beginner tutorial”
 
-#Tuples (Creation, Modification and Access) :
+Tuples (Creation, Modification and Access) :
 
 Create 1st tuple with values -> (10, 20, 30), 2nd tuple with values -> (40, 50, 60):
 
