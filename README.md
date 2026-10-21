@@ -163,7 +163,7 @@ For eg: If score below average “Need to Improve your performance, consistent
 practice will lead to better results”.
 
 
-# Python Assignment 3: While Loop, For loop and Function
+# PYTHON ASSIGNMENT 3: WHILE LOOP, FOR LOOP AND FUNCTION
 
 **While loop & Control Statements :**
 (else, break, continue, pass)
