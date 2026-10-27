@@ -1,10 +1,8 @@
 # PYTHON-FUNDAMENTALS-ASSIGNMENT-1_DATA-STRUCTURES-STRINGS-AND-TUPLES
 
-Python Assignment 1: Data Structures - Strings & Tuples
+# Strings (Concatenation, Slicing and Other methods) :
 
-Strings (Concatenation, Slicing and Other methods) :
-
-1. String Concatenation:
+**1. String Concatenation:**
 Write a Python program that takes two strings i.e string 1 “Hello ”, string 2 get name as
 input from the user and concatenates them together.
 
@@ -24,7 +22,7 @@ Sample Output:
 
 Hello Zara, welcome to Python programming
 
-2. String Slicing and Indexing:
+**2. String Slicing and Indexing:**
    
 Write a Python program using the above concatenated string as input and performs the
 following tasks:
@@ -41,7 +39,7 @@ e. Print the string in reverse.
 
 f. Use slicing and print the word “Python” from the existing string.
 
-4. String Methods:
+**3. String Methods:**
 Write a Python program that takes a string, strM = “Python beginner tutorial” and
 perform the following tasks:
 
@@ -56,7 +54,7 @@ d. Count the total number of occurrences of character ‘t’ in the string.
 e. Replace all occurrences of “Python” with “Machine Learning” in the input string
 strM = “Python beginner tutorial”
 
-Tuples (Creation, Modification and Access) :
+# Tuples (Creation, Modification and Access) :
 
 Create 1st tuple with values -> (10, 20, 30), 2nd tuple with values -> (40, 50, 60):
 
@@ -308,9 +306,9 @@ Your BMI is: 22.10
 
 # MODULE END ASSIGNMENT 
 
-Project Title: SURVER FEEDBACK ANALYZER
+**Project Title: SURVER FEEDBACK ANALYZER**
 
-Problem Statement:
+*Problem Statement:*
 
 In any data-driven domain, especially in Data Science, analyzing textual feedback is a critical step for
 extracting insights, improving services, and understanding user sentiment. This project aims to help you
@@ -318,9 +316,9 @@ apply core Python programming concepts to build a text-based feedback analysis t
 survey feedback entries stored in a dictionary of lists, perform basic data cleaning, extract meaningful
 insights, and apply logic using loops, conditionals, string operations, and user-defined functions.
 
-Project Steps and Objectives:
+*Project Steps and Objectives:*
 
-📥 Step 1: Preloaded Feedbacks (Given Data) (1 mark)
+**📥 Step 1: Preloaded Feedbacks (Given Data) (1 mark)**
 
 Start your program with the following dictionary of lists, preloaded with 10 feedbacks:
 
@@ -343,7 +341,7 @@ feedback_data = {
 }
 
 
-✍️ Step 2: Add More Feedbacks (4 marks)
+**✍️ Step 2: Add More Feedbacks (4 marks)**
 
 ● Ask the user to enter how many more feedbacks they want to add.
 
@@ -358,7 +356,7 @@ feedback_data = {
 ● Append all new data into the feedback_data dictionary.
 
 
-🧹 Step 3: Text Cleaning (4 marks)
+**🧹 Step 3: Text Cleaning (4 marks)**
 
 Clean all feedback entries as follows:
 
@@ -374,7 +372,7 @@ Clean all feedback entries as follows:
 
 
 
-🔁 Step 4: Word Count Insights (4 marks)
+**🔁 Step 4: Word Count Insights (4 marks)**
 
 Create a function count_word_in_feedbacks(word) that:
 
@@ -392,7 +390,7 @@ Use this function to print:
 
 
 
-📊 Step 5: Final Summary & Insights (12 marks)
+**📊 Step 5: Final Summary & Insights (12 marks)**
 
 ● Display the final cleaned feedback_data (dictionary of lists).
 
